@@ -1,4 +1,4 @@
-module ipc-use
+module github.com/reber0/ipc-use
 
 go 1.19
 
